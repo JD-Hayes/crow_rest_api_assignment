@@ -1,4 +1,4 @@
-Objective:
+# **Objective:**
 
 Students will design and implement a REST API using the Crow framework in C++. The API will manage a library collection of books while integrating SQLite for persistent storage.
 
